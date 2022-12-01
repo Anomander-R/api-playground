@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Anomander-R/api-playground#readme",
   "dependencies": {
+    "dotenv": "^16.0.3",
     "twilio": "^3.83.4"
   }
 }
