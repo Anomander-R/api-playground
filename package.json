@@ -1,0 +1,23 @@
+{
+  "name": "api-playground",
+  "version": "1.0.0",
+  "description": "Introduction to APIs",
+  "main": "/src/index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anomander-R/api-playground.git"
+  },
+  "keywords": [],
+  "author": "Anomander-R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anomander-R/api-playground/issues"
+  },
+  "homepage": "https://github.com/Anomander-R/api-playground#readme",
+  "dependencies": {
+    "twilio": "^3.83.4"
+  }
+}
